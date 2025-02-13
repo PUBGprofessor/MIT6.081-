@@ -4,7 +4,7 @@
 
 ### 通用寄存器（General-Purpose Registers）
 
-![image-20241001154931478](source\image-20241001154931478.png)
+![image-20241001154931478](source/image-20241001154931478.png)
 
 ### 控制和状态寄存器（Control and Status Registers, CSRs）
 
