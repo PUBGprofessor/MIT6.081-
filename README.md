@@ -964,7 +964,7 @@ struct sleeplock {
 
 ## 八、文件系统
 
-![image-20250213102148542](source\image-20250213102148542.png)
+![image-20250213102148542](source/image-20250213102148542.png)
 
 Github包含其他资源：https://github.com/PUBGprofessor/MIT6.081-
 
