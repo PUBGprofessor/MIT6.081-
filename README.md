@@ -1,6 +1,6 @@
 ## 0、
 
-![image-20241001154424785](.\source\image-20241001154424785.png)
+![image-20241001154424785](./source/image-20241001154424785.png)
 
 ### 通用寄存器（General-Purpose Registers）
 
