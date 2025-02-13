@@ -1,10 +1,10 @@
 ## 0、
 
-![image-20241001154424785](C:\Users\刘佳豪\AppData\Roaming\Typora\typora-user-images\image-20241001154424785.png)
+![image-20241001154424785](source\image-20241001154424785.png)
 
 ### 通用寄存器（General-Purpose Registers）
 
-![image-20241001154931478](C:\Users\刘佳豪\AppData\Roaming\Typora\typora-user-images\image-20241001154931478.png)
+![image-20241001154931478](source\image-20241001154931478.png)
 
 ### 控制和状态寄存器（Control and Status Registers, CSRs）
 
@@ -964,7 +964,7 @@ struct sleeplock {
 
 ## 八、文件系统
 
-![image-20250213102148542](C:\Users\刘佳豪\AppData\Roaming\Typora\typora-user-images\image-20250213102148542.png)
+![image-20250213102148542](source\image-20250213102148542.png)
 
 Github包含其他资源：https://github.com/PUBGprofessor/MIT6.081-
 
